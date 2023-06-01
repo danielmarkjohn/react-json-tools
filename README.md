@@ -1,8 +1,8 @@
-#JSON Tools
-##Introduction
+# JSON Tools
+## Introduction
 JSON Tools is a web application that provides a set of useful functionalities for working with JSON data. It allows you to validate and beautify JSON, making it easier to read and work with.
 
-##Logic
+## Logic
 The JSON Tools app is built using React, a popular JavaScript library for building user interfaces. It utilizes state management to handle input, perform JSON validation, and format the JSON output.
 
 Here's how the logic of the app works:
@@ -17,7 +17,7 @@ The user can copy the formatted JSON or error details to the clipboard by clicki
 Input
 The input to the JSON Tools app is the JSON data that you want to validate and format. You can enter the JSON directly into the input textarea or upload a JSON file using the "Upload JSON File" button.
 
-##Output
+## Output
 The output of the JSON Tools app is the formatted JSON or error messages.
 
 If the JSON input is valid, the app formats the JSON using proper indentation and line breaks. The formatted JSON is displayed in the output area.
