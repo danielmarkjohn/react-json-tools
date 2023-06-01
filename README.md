@@ -23,12 +23,13 @@ The output of the JSON Tools app is the formatted JSON or error messages.
 If the JSON input is valid, the app formats the JSON using proper indentation and line breaks. The formatted JSON is displayed in the output area.
 If the JSON input is invalid, the app displays an error message indicating that the JSON is invalid.
 In case of any errors during the validation or formatting process, detailed error messages are displayed to help identify the issue.
-Beautify
+
+## Beautify
 The JSON Tools app also provides a "Beautify" feature that formats the JSON input to improve its readability. It adds indentation and line breaks to make the JSON structure more visually appealing and easier to navigate.
 
 By clicking the "Validate" button, the app automatically beautifies the JSON if it is valid.
 
-##Conclusion
+## Conclusion
 JSON Tools is a convenient web app that helps you validate and beautify JSON data. Whether you're working with complex JSON structures or simply need to improve the readability of JSON, this app provides a user-friendly interface to accomplish these tasks efficiently.
 
-Give it a try and make your JSON data more manageable and visually appealing!
+### Give it a try and make your JSON data more manageable and visually appealing!
